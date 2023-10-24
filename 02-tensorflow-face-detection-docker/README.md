@@ -1,5 +1,5 @@
 # face-detection-tensorjs-ml
-Face landmark detection TensorJS &amp; with Integrated WASM & comparison with Webgl, CPU
+Face landmark detection TensorJS with Integrated WASM & comparison with Webgl, CPU
 
 ### General Quick Demo
 ARM 
