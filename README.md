@@ -1,5 +1,5 @@
-# WASM-Docker
-Docker Ahmedabad Meetup Demos 
+# CND-WASM
+CND WASM Demos 
 
 ## Table of Contents
 - [Getting Started](#getting-started)
