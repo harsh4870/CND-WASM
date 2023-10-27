@@ -1,7 +1,12 @@
 # face-detection-tensorjs-ml
 Face landmark detection TensorJS with Integrated WASM & comparison with Webgl, CPU
 
-### General Quick Demo
+### Open in browser
+
+[Clik & Visit Link](https://storage.googleapis.com/cnd-wasm-tensorjs/index.html)
+
+
+### DIY General Quick Demo
 ARM 
 ```
 docker run -p 1234:80 harshmanvar/face-detection-tensorjs:compare-wasm-webgl-cpu
