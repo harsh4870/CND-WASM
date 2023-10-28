@@ -29,3 +29,8 @@ Step-by-step instructions to install the project.
    ```sh
    npm i http-server
    ```
+
+#### Enable WASM on Docker Desktop
+
+<img width="1437" alt="Screenshot 2023-10-28 at 8 54 46 AM" src="https://github.com/harsh4870/CND-WASM/assets/15871000/d941e97c-76b8-4d60-82c4-a3f027e12070">
+
