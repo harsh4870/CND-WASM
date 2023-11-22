@@ -1,5 +1,5 @@
 # CND-WASM
-CND WASM Demos 
+WASM Demos 
 
 ## Table of Contents
 - [Getting Started](#getting-started)
